@@ -1,1 +1,5 @@
 Manager khởi tạo git
+
+
+Hello, tui là Lượng
+Tui làm bài 1
