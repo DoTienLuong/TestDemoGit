@@ -3,3 +3,5 @@ Manager khởi tạo git
 
 Hello, mình là Huy
 Mình làm bài 2.
+Hello, tui là Lượng
+Tui làm bài 1
